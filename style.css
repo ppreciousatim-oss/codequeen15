@@ -1,10 +1,16 @@
-*{
-    background-color: lightseagreen;
+/* *{
+    /* background-color: lightgray; */
 
-}
+} */
 h1{
     color: aqua;
 }
 img{
     width: 200px;
+}
+.giraffe{
+    color:blue;
+}
+.food{
+    background-color:palevioletred;
 }
