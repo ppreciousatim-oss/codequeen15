@@ -1,0 +1,46 @@
+/* *{
+    background-color: rgb(74, 147, 192);
+} */
+h1{
+    color: aqua;
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+.profile{
+     background: rgb(74, 147, 192);
+     display: flex;
+     justify-content: left;
+        align-items: center;
+}
+.skill{
+    background-color:palevioletred;
+    color: yellow;
+}
+.footer{
+    background-color: rgb(74, 147, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.social-links a{
+    color: white;
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.social-links a:hover{
+    color:greenyellow;
+}
+.bottom-bar{
+    background-color: rgb(74, 147, 192);
+    text-align: center;
+    padding: 10px;
+    color: goldenrod;
+}
