@@ -1,7 +1,7 @@
-/* *{
-    background-color: lightgray;
-
-} */
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: aqua;
 }
@@ -14,3 +14,32 @@ img{
 .food{
     background-color:palevioletred;
 }
+#sample{
+    background-color: skyblue;
+   border: 2px solid blue; 
+    font-size: 17px;
+}
+.time{
+    background-color: mediumaquamarine;
+    border-style: dotted;
+    font-size: medium;
+    margin:10px 15px;
+    padding: 30px;
+}
+
+
+/* my flexbox properties */
+.container{
+    background-color: lightcoral;
+}
+
+.childContainer{
+    background-color: mediumorchid;
+    display: flex;
+    flex-direction: row;
+    gap:10px
+    justify-content space-between;
+}
+
+
+

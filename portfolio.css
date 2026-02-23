@@ -1,6 +1,11 @@
-/* *{
-    background-color: rgb(74, 147, 192);
-} */
+body{
+    background-color: lightsteelblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div ::-webkit-validation-bubble-heading
 h1{
     color: aqua;
 }
@@ -8,11 +13,20 @@ img{
     width: 200px;
     border-radius: 50%;
 }
+center section
 .profile{
      background: rgb(74, 147, 192);
      display: flex;
      justify-content: left;
         align-items: center;
+}
+card
+profile card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .skill{
     background-color:palevioletred;
