@@ -37,8 +37,7 @@ img{
     background-color: mediumorchid;
     display: flex;
     flex-direction: row;
-    gap:10px
-    justify-content space-between;
+    justify-content: space-between;
 }
 .blue-container{
     border:3px blue solid;
@@ -65,11 +64,17 @@ img{
     border: coral solid 2px;
     display: flex;
 }
-img{
+.im-image{
     width:100px;
     border-radius: 50%;
     padding: 10px 60px;
 }
 
+/* 
+boostrap work */
+.caramel{
+    background-color:darkred;
+    border: brown;
+}
 
 
